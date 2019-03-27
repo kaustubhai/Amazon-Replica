@@ -1,0 +1,142 @@
+.option{
+	font-size: 20px;
+	padding-right: 10px;
+	padding-left: 2px;
+	margin-left: 0.5cm;
+	text-decoration: none;
+	color: white;
+	background-color: #133337;
+		
+}
+.bgb{
+	background-color: #133337;
+}
+.option2{
+	font-size: 20px;
+	padding-left: 1px;
+	margin-left: 750px;
+	text-decoration: none;
+	color: white;
+	margin-right: 10px;
+	background-color: #133337;
+}
+.foot{
+	background-color: #133337;
+}
+.foot1{
+	display: inline-block;
+	color: white;
+	text-align: center;
+	padding-right: 85px;
+	padding-left: 10px;
+	vertical-align: top;
+	padding-bottom: 10px;
+}
+.foot2{
+	margin-left: 350px;
+	margin-right: 100px;
+}
+.footh{
+	font-size: 20px;
+	color: white;
+	text-decoration: none;
+}
+.footb{
+	text-decoration: none;
+	font-size: 15px;
+	color: white;
+	font-family: sans-serif;
+}
+.footb:hover{
+	text-decoration: underline;
+}
+.cc{
+	background-color: #133337;
+}
+.country{
+	display: inline-block;
+	padding-right: 10px;
+	padding-left: 5px;
+	color: white;
+}
+.dropbtn {
+  background-color: #133337;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  margin-left: 15px;
+  background-color: #f9f9f9;
+  min-width: 80px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  font-size: 15px;
+  font-family:sans-serif;
+  position: relative;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropdown:hover .dropbtn {
+  background-color: #133337;
+}
+.tag{
+	color: #ABABAD;
+	font-family: serif;
+	font-size: 15px;
+}
+.main{
+	display: inline-block;
+	width: 100%;
+}
+.pro{
+	height: 50%;
+	width: 20%;
+	float: left;
+	margin-left: 100px;
+	padding-top: 100px;
+	padding-bottom: 100px;
+	padding-right: 70px;
+	display: inline-block;
+}
+.pro:hover{
+	transform: scale(1.6,1.6);
+	cursor: zoom-in;
+}
+.head{
+	display:inline;
+	margin-top: 50px;
+	z-index: 1;
+	vertical-align: top;
+	position: relative;
+	padding-left: 500px;
+	font-family: sans-serif;
+	text-decoration: none;
+}
+ul{
+	font-size: 12px;
+	padding-right: 30px;
+}
