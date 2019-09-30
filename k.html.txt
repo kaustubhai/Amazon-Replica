@@ -1,0 +1,15 @@
+<doctype !html>
+<html>
+<head>
+<h1>amazon form</h1>
+</head>
+<body>
+<p>place your secondary heading here</p>
+<form>
+<input type="text" name="n"><label>name:</label></input>
+<input type="number" name="no"><label>number:</label></input>
+<input type="date" name="d"><label>date:</label></input>
+
+</form>
+</body>
+</html>
